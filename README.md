@@ -128,7 +128,7 @@ properties = [
 ]
 ```
 
-👉 Complete Python script: [zillow_properties.py](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_properties.py)
+👉 Complete Python script: [zillow_properties.py](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_properties.py)
 
 #### cURL Command:
 ```bash
@@ -172,7 +172,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
 }
 ```
 
-👉 This is a partial response. See the [full JSON response](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_data/zillow_properties.json) for complete property details.
+👉 This is a partial response. See the [full JSON response](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_data/zillow_properties.json) for complete property details.
 
 ## 2. Zillow Properties Listing by Filters
 Search properties using location and other criteria.
@@ -198,7 +198,7 @@ filters = [
     {"location": "Colorado", "listingCategory": "", "HomeType": ""},
 ]
 ```
-👉 Complete Python script: [zillow_discovered_properties.py](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_discovered_properties.py)
+👉 Complete Python script: [zillow_discovered_properties.py](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_discovered_properties.py)
 
 #### cURL Command:
 ```bash
@@ -256,7 +256,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
 }
 ```
 
-👉 This is a partial response. See the [full JSON response](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_data/zillow_discovered_properties.json) for complete property details.
+👉 This is a partial response. See the [full JSON response](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_data/zillow_discovered_properties.json) for complete property details.
 
 ## 3. Zillow Properties Listing by URL
 Search for properties directly using Zillow search page URLs.
@@ -281,7 +281,7 @@ urls = [
     {"url": "https://www.zillow.com/sands-point-ny/rentals/?searchQueryState=%7B%22isMapVisible%22%3A..."},
 ]
 ```
-👉 Complete Python script: [zillow_discovered_properties_by_url.py](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_discovered_properties_by_url.py)
+👉 Complete Python script: [zillow_discovered_properties_by_url.py](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_discovered_properties_by_url.py)
 
 #### cURL Command:
 ```bash
@@ -322,7 +322,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
     "url": "https://www.zillow.com/homedetails/1937-Churchill-Dr-South-Bend-IN-46617/77029580_zpid/",
 }
 ```
-👉 This is a partial response. See the [full JSON response](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_data/zillow_discovered_properties_by_url.json) for complete property details.
+👉 This is a partial response. See the [full JSON response](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_data/zillow_discovered_properties_by_url.json) for complete property details.
 
 ## 4. Zillow Price History
 Collect pricing history for a property.
@@ -344,7 +344,7 @@ urls = [
     {"url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"},
 ]
 ```
-👉 Complete Python script: [zillow_price_history.py](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_price_history.py)
+👉 Complete Python script: [zillow_price_history.py](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_scraper/zillow_price_history.py)
 
 #### cURL Command:
 ```bash
@@ -368,7 +368,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
     "timestamp": "2025-02-09T16:56:42.074Z",
 }
 ```
-👉 This is a partial response. See the [full JSON response](https://github.com/triposat/Zillow-Scraper/blob/main/zillow_api_data/zillow_price_history.json) for complete property details.
+👉 This is a partial response. See the [full JSON response](https://github.com/luminati-io/Zillow-Scraper/blob/main/zillow_api_data/zillow_price_history.json) for complete property details.
 
 ## No-Code Scraper Option
 Bright Data **No-Code Scraper** offers a user-friendly way to collect Zillow data without programming.
@@ -376,7 +376,7 @@ Bright Data **No-Code Scraper** offers a user-friendly way to collect Zillow dat
 - Automate the entire data collection process.
 - Download results directly in multiple formats.
 
-For detailed instructions, visit our [Getting Started guide](https://github.com/triposat/Zillow-Scraper/blob/main/no-code-scraper.md).
+For detailed instructions, visit our [Getting Started guide](https://github.com/luminati-io/Zillow-Scraper/blob/main/no-code-scraper.md).
 
 ## Additional Options
 Fine-tune your data collection with these parameters:
