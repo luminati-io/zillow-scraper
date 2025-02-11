@@ -108,7 +108,7 @@ The Bright Data [Zillow Scraper API](https://brightdata.com/products/web-scraper
 ## 1. Zillow Property Details by URL
 Collect property details by providing the property URL.
 
-<img width="700" alt="zillow-properties-listing-information" src="https://github.com/user-attachments/assets/bad6b74b-297d-4133-b4c3-de63a6b46fbd" />
+<img width="700" alt="zillow-properties-listing-information" src="https://github.com/luminati-io/zillow-scraper/blob/main/zillow-images/zillow-properties-listing-information.png" />
 
 ### Input Parameters
 | Parameter | Required | Description            |
@@ -174,7 +174,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
 ## 2. Zillow Properties Listing by Filters
 Search properties using location and other criteria.
 
-<img width="700" alt="zillow-properties-listing-by-input" src="https://github.com/user-attachments/assets/b21de730-db2c-4dca-8964-9653e10350cc" />
+<img width="700" alt="zillow-properties-listing-by-input" src="https://github.com/luminati-io/zillow-scraper/blob/main/zillow-images/zillow-properties-listing-by-input.png" />
 
 💡 **Note:** Some properties may have multiple units, which can result in several records. To limit results, use the [Limit per input](https://docs.brightdata.com/scraping-automation/web-scraper-api/overview#limit-records).
 
@@ -258,7 +258,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
 ## 3. Zillow Properties Listing by URL
 Search for properties directly using Zillow search page URLs.
 
-<img width="700" alt="zillow-properties-listing-by-url" src="https://github.com/user-attachments/assets/6c0b0f4a-20a0-437a-bac5-92b47c70dbd2" />
+<img width="700" alt="zillow-properties-listing-by-url" src="https://github.com/luminati-io/zillow-scraper/blob/main/zillow-images/zillow-properties-listing-by-url.png" />
 
 
 💡 **Note:** Some properties may have multiple units, which can result in several records. To limit results, use the [Limit per input](https://docs.brightdata.com/scraping-automation/web-scraper-api/overview#limit-records).
@@ -324,7 +324,7 @@ curl -H "Authorization: Bearer YOUR_API_TOKEN" \
 ## 4. Zillow Price History
 Collect pricing history for a property.
 
-<img width="700" alt="zillow-price-history" src="https://github.com/user-attachments/assets/e25e878b-6ddc-49fa-bb22-f23092aae5bf" />
+<img width="700" alt="zillow-price-history" src="https://github.com/luminati-io/zillow-scraper/blob/main/zillow-images/zillow-price-history.png" />
 
 ### Input Parameters
 
