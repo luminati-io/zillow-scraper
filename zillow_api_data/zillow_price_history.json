@@ -1,0 +1,248 @@
+[
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/",
+    "zpid": "6468808",
+    "date": "2020-11-13T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 440000,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 127,
+    "source": "Doorify MLS",
+    "source_image": "https://photos.zillowstatic.com/fp/8f81af8b8026a5a5b638c44107c86860-zillow_web_logo_inf_11.jpg",
+    "timestamp": "2025-02-09T16:56:42.074Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/",
+    "zpid": "6468808",
+    "date": "2020-10-09T00:00:00.000Z",
+    "event": "Pending sale",
+    "posting_is_rental": false,
+    "price": 440000,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 127,
+    "source": "Fathom Realty NC, LLC",
+    "timestamp": "2025-02-09T16:56:42.074Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/",
+    "zpid": "6468808",
+    "date": "2020-09-30T00:00:00.000Z",
+    "event": "Listed for sale",
+    "posting_is_rental": false,
+    "price": 440000,
+    "price_change_rate": 0.6448598130841121,
+    "price_per_squarefoot": 127,
+    "source": "Fathom Realty NC, LLC",
+    "timestamp": "2025-02-09T16:56:42.074Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/8305-Blue-Heron-Way-Raleigh-NC-27615/6468808_zpid/",
+    "zpid": "6468808",
+    "date": "2001-07-16T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 267500,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 77,
+    "source": "Public Record",
+    "timestamp": "2025-02-09T16:56:42.074Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2023-12-18T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 215000,
+    "price_change_rate": -0.022282855843565257,
+    "price_per_squarefoot": 212,
+    "source": "Canopy MLS as distributed by MLS GRID",
+    "source_image": "https://photos.zillowstatic.com/fp/58ff50b038a3c30b717218872967ec00-zillow_web_logo_inf_11.jpg",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2023-11-13T00:00:00.000Z",
+    "event": "Price change",
+    "posting_is_rental": false,
+    "price": 219900,
+    "price_change_rate": 0.04764173415912339,
+    "price_per_squarefoot": 217,
+    "source": "Canopy MLS as distributed by MLS GRID",
+    "source_image": "https://photos.zillowstatic.com/fp/58ff50b038a3c30b717218872967ec00-zillow_web_logo_inf_11.jpg",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2023-10-02T00:00:00.000Z",
+    "event": "Listed for sale",
+    "posting_is_rental": false,
+    "price": 209900,
+    "price_change_rate": 1.7986666666666666,
+    "price_per_squarefoot": 207,
+    "source": "Canopy MLS as distributed by MLS GRID",
+    "source_image": "https://photos.zillowstatic.com/fp/58ff50b038a3c30b717218872967ec00-zillow_web_logo_inf_11.jpg",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2023-05-09T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 75000,
+    "price_change_rate": 0.503006012024048,
+    "price_per_squarefoot": 74,
+    "source": "Canopy MLS as distributed by MLS GRID",
+    "source_image": "https://photos.zillowstatic.com/fp/58ff50b038a3c30b717218872967ec00-zillow_web_logo_inf_11.jpg",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2012-09-11T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 49900,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 49,
+    "source": "Canopy MLS as distributed by MLS GRID",
+    "source_image": "https://photos.zillowstatic.com/fp/58ff50b038a3c30b717218872967ec00-zillow_web_logo_inf_11.jpg",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2012-08-18T00:00:00.000Z",
+    "event": "Listed for sale",
+    "posting_is_rental": false,
+    "price": 49900,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 49,
+    "source": "The Real Estate Book",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2012-05-06T00:00:00.000Z",
+    "event": "Listing removed",
+    "posting_is_rental": false,
+    "price": 49900,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 49,
+    "source": "NCI",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2011-10-03T00:00:00.000Z",
+    "event": "Price change",
+    "posting_is_rental": false,
+    "price": 49900,
+    "price_change_rate": -0.1669449081803005,
+    "price_per_squarefoot": 49,
+    "source": "NCI",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2011-06-06T00:00:00.000Z",
+    "event": "Price change",
+    "posting_is_rental": false,
+    "price": 59900,
+    "price_change_rate": -0.07131782945736434,
+    "price_per_squarefoot": 59,
+    "source": "NCI",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2011-05-07T00:00:00.000Z",
+    "event": "Listed for sale",
+    "posting_is_rental": false,
+    "price": 64500,
+    "price_change_rate": 0.5357142857142857,
+    "price_per_squarefoot": 64,
+    "source": "NCI",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2009-12-22T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 42000,
+    "price_change_rate": 0.03473762010347376,
+    "price_per_squarefoot": 42,
+    "source": "Public Record",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  },
+  {
+    "input": {
+      "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/"
+    },
+    "url": "https://www.zillow.com/homedetails/930-3rd-St-SE-Hickory-NC-28602/71557289_zpid/",
+    "zpid": "71557289",
+    "date": "2009-03-19T00:00:00.000Z",
+    "event": "Sold",
+    "posting_is_rental": false,
+    "price": 40590,
+    "price_change_rate": 0,
+    "price_per_squarefoot": 40,
+    "source": "Public Record",
+    "timestamp": "2025-02-09T16:56:41.893Z"
+  }
+]
